@@ -1,5 +1,4 @@
 const OpenseaScraper = require("./src/index.js");
-
 // switch on/off which function to demo
 const demoBasicInfo = true;
 const demoOffers = true;
